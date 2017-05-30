@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m4 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F407VG -DSTM32F4XX -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -I..\..\..\..\..\Users\Bartek!\Desktop\STM_PROJECT -I..\..\..\..\..\Users\Bartek!\Desktop\STM_PROJECT\cmsis_boot -I..\..\..\..\..\Users\Bartek!\Desktop\STM_PROJECT\cmsis -I..\..\..\..\..\Users\Bartek!\Desktop -I..\..\..\..\..\Users\Bartek!\Desktop\STM_PROJECT\cmsis_lib -I..\..\..\..\..\Users\Bartek! -I..\..\..\..\..\Users\Bartek!\Desktop\STM_PROJECT\cmsis_lib\include">
+      <target file="stm32f4xx_gpio.o" lastModified="15c5554f622">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="15b29b41b68"/>
+      </target>
+      <target file="tm_stm32f4_hcsr04.o" lastModified="15c5554f55b">
+         <source file="..\..\..\tm_stm32f4_hcsr04.c" lastModified="14c62c52ec0"/>
+      </target>
+      <target file="tm_stm32f4_timer_properties.o" lastModified="15c5554f7d1">
+         <source file="..\..\..\tm_stm32f4_timer_properties.c" lastModified="1488e7b91c0"/>
+      </target>
+      <target file="stm32f4xx_tim.o" lastModified="15c5554f8e1">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="15b29b44071"/>
+      </target>
+      <target file="system_stm32f4xx.o" lastModified="15c5554f66d">
+         <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="15c403c2b4f"/>
+      </target>
+      <target file="startup_stm32f4xx.o" lastModified="15c5554f36b">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="15b29b3eabf"/>
+      </target>
+      <target file="stm32f4xx_rtc.o" lastModified="15c5554f77d">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rtc.c" lastModified="15b29b4308a"/>
+      </target>
+      <target file="tm_stm32f4_gpio.o" lastModified="15c5554f6cd">
+         <source file="..\..\..\tm_stm32f4_gpio.c" lastModified="14de28d2350"/>
+      </target>
+      <target file="stm32f4xx_usart.o" lastModified="15c5554f32e">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_usart.c" lastModified="15c126ba7fc"/>
+      </target>
+      <target file="main.o" lastModified="15c55c0c619">
+         <source file="..\..\..\main.c" lastModified="15c55c0c389"/>
+      </target>
+      <target file="tm_stm32f4_delay.o" lastModified="15c5554f5c5">
+         <source file="..\..\..\tm_stm32f4_delay.c" lastModified="14fdb45e0d0"/>
+      </target>
+      <target file="stm32f4xx_rcc.o" lastModified="15c5554f4e6">
+         <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="15b29b40619"/>
+      </target>
+   </processor>
+</history>

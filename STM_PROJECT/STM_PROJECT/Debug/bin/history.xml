@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=STM_PROJECT.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\STM_PROJECT -TC:\CooCox\CoIDE\configuration\ProgramData\STM_PROJECT/arm-gcc-link.ld -g">
+      <target file="STM_PROJECT.elf" lastModified="15c55c0c80e">
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="15c5554f32e"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="15c5554f36b"/>
+         <source file="..\obj\main.o" lastModified="15c55c0c619"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="15c5554f4e6"/>
+         <source file="..\obj\tm_stm32f4_hcsr04.o" lastModified="15c5554f55b"/>
+         <source file="..\obj\tm_stm32f4_delay.o" lastModified="15c5554f5c5"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="15c5554f622"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="15c5554f66d"/>
+         <source file="..\obj\tm_stm32f4_gpio.o" lastModified="15c5554f6cd"/>
+         <source file="..\obj\stm32f4xx_rtc.o" lastModified="15c5554f77d"/>
+         <source file="..\obj\tm_stm32f4_timer_properties.o" lastModified="15c5554f7d1"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="15c5554f8e1"/>
+      </target>
+   </processor>
+</history>
