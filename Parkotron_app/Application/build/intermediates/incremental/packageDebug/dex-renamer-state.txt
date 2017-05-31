@@ -1,0 +1,4 @@
+#Wed May 31 12:14:05 CEST 2017
+base.0=/home/bartek/Desktop/Parkotron_app/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/bartek/Desktop/Parkotron_app/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

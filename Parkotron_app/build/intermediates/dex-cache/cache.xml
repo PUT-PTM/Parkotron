@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bartek/.android/build-cache/f88f44d1e03bd411e24545e3bc557c75008dbbc6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/classes_cf6dcd0f82757171aa2ac1c78275c8a26bc15e80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bartek/.android/build-cache/f88f44d1e03bd411e24545e3bc557c75008dbbc6/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_3b09f5ebca5a2bec7615b7064f5c5754c1d6ab29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bartek/.android/build-cache/c80d38a12e3551ca3d5aff6b23a222a5caa8111a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/classes_09f01526038138044fcab7e4517c7bd347a1c5bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bartek/.android/build-cache/6fccf9b170e7a6a8fce8df48f5cd265f76523c2f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/classes_9cd96b948f40f0361756d5c4c246e4c9fcd16c94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bartek/.android/build-cache/b8f884dcb10cf2a15bd46ae271aa86be3f1df8b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/classes_86002c33377424387ce869fc0ac3fc46e52f2704.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bartek/.android/build-cache/c80d38a12e3551ca3d5aff6b23a222a5caa8111a/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c163cc7b27207ed3cd4e4074b68c7b82512b0eae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bartek/.android/build-cache/e93beadc770d29b25d1990a63d660252c544731b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/classes_5fdbde157e22865f771113a86898454f750ca542.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bartek/.android/build-cache/e93beadc770d29b25d1990a63d660252c544731b/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_6098049ca94533e5aaf68d4ee65d0d5ac9ee82d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bartek/.android/build-cache/621373ea8a409d7e9b5a5693cdddf4d791181da0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/classes_ef3578b866e1d499d432f55d3a6796d124d129cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bartek/.android/build-cache/621373ea8a409d7e9b5a5693cdddf4d791181da0/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_21de1fadc0863dc2ba8b94c6cd34d2ccd5f4b504.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bartek/.android/build-cache/87367f1baa8f2dd51166b93acffd364991b25f16/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/classes_3c8a47b7d67f627b57dc22513dac727994aeef30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bartek/.android/build-cache/0c93c30c585a07e1e40ca29aa39871784efcdca6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/classes_14d04f33aa669c5053aa4a9157818aa71bef6b89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bartek/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_d5f9e5cdce8ec96bb8cd902b3a10dc1bd733aca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bartek/.android/build-cache/6fccf9b170e7a6a8fce8df48f5cd265f76523c2f/output/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c8251464051bee499402a12a962c2ae6fedda04c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bartek/.android/build-cache/694e061afa1cf2c7f3e4d7d3abc36e8fc1a6598f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/classes_00f65f44fc931e783523e46d369bd43eeee58c70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bartek/.android/build-cache/038bce88ec8207faaac3c8047cce1fbeda51906b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/classes_83b21a08a2d4483656a1e4db80fc038900bccc77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bartek/.android/build-cache/46bec09560da3d3cd4af625b5319760d76630028/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/pre-dexed/debug/classes_681edd22008ace05408a5e6aaa6927e8d1a924c6.jar" />
+    </item>
+
+</items>

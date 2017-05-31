@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/bartek/Desktop/Parkotron/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/bartek/Desktop/Parkotron/Application/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/menu/bluetooth_chat.xml",
+        "source": "/home/bartek/Desktop/android-BluetoothChat-master/Application/src/main/res/menu/bluetooth_chat.xml"
+    },
+    {
+        "merged": "/home/bartek/Desktop/Parkotron/Application/build/intermediates/res/merged/debug/menu/bluetooth_chat.xml",
+        "source": "/home/bartek/Desktop/Parkotron/Application/src/main/res/menu/bluetooth_chat.xml"
+    },
+    {
+        "merged": "/home/bartek/Desktop/Parkotron_app/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/bartek/Desktop/Parkotron_app/Application/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/bartek/Desktop/android-BluetoothChat-master/Application/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/bartek/Desktop/Parkotron_app/Application/build/intermediates/res/merged/debug/menu/bluetooth_chat.xml",
+        "source": "/home/bartek/Desktop/Parkotron_app/Application/src/main/res/menu/bluetooth_chat.xml"
+    }
+]

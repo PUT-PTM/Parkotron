@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:18:1-53:12
+	package
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:19:5-48
+	android:versionName
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:22:5-30
+		INJECTED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:21:5-28
+		INJECTED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:20:5-63
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:26:5-73
+	android:name
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:26:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:27:22-65
+application
+ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:29:5-51:19
+MERGED from [com.android.support:gridlayout-v7:25.0.1] /home/bartek/.android/build-cache/0c93c30c585a07e1e40ca29aa39871784efcdca6/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.0.1] /home/bartek/.android/build-cache/038bce88ec8207faaac3c8047cce1fbeda51906b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/bartek/.android/build-cache/694e061afa1cf2c7f3e4d7d3abc36e8fc1a6598f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] /home/bartek/.android/build-cache/87367f1baa8f2dd51166b93acffd364991b25f16/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] /home/bartek/.android/build-cache/e93beadc770d29b25d1990a63d660252c544731b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/bartek/.android/build-cache/621373ea8a409d7e9b5a5693cdddf4d791181da0/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/bartek/.android/build-cache/6fccf9b170e7a6a8fce8df48f5cd265f76523c2f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] /home/bartek/.android/build-cache/f88f44d1e03bd411e24545e3bc557c75008dbbc6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/bartek/.android/build-cache/b8f884dcb10cf2a15bd46ae271aa86be3f1df8b9/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/bartek/.android/build-cache/46bec09560da3d3cd4af625b5319760d76630028/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.1] /home/bartek/.android/build-cache/c80d38a12e3551ca3d5aff6b23a222a5caa8111a/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:32:9-41
+	android:allowBackup
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:31:9-45
+	android:theme
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:33:9-40
+activity#com.example.android.bluetoothchat.MainActivity
+ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:35:9-43:20
+	android:label
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:38:13-45
+	android:configChanges
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:37:13-63
+	android:name
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:36:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:40:17-68
+	android:name
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:41:27-74
+activity#com.example.android.bluetoothchat.DeviceListActivity
+ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:45:9-49:63
+	android:label
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:48:13-50
+	android:configChanges
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:47:13-63
+	android:theme
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:49:13-61
+	android:name
+		ADDED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml:46:13-47
+uses-sdk
+INJECTED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:gridlayout-v7:25.0.1] /home/bartek/.android/build-cache/0c93c30c585a07e1e40ca29aa39871784efcdca6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.1] /home/bartek/.android/build-cache/038bce88ec8207faaac3c8047cce1fbeda51906b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/bartek/.android/build-cache/694e061afa1cf2c7f3e4d7d3abc36e8fc1a6598f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] /home/bartek/.android/build-cache/87367f1baa8f2dd51166b93acffd364991b25f16/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] /home/bartek/.android/build-cache/e93beadc770d29b25d1990a63d660252c544731b/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/bartek/.android/build-cache/621373ea8a409d7e9b5a5693cdddf4d791181da0/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/bartek/.android/build-cache/6fccf9b170e7a6a8fce8df48f5cd265f76523c2f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] /home/bartek/.android/build-cache/f88f44d1e03bd411e24545e3bc557c75008dbbc6/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/bartek/.android/build-cache/b8f884dcb10cf2a15bd46ae271aa86be3f1df8b9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/bartek/.android/build-cache/46bec09560da3d3cd4af625b5319760d76630028/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.1] /home/bartek/.android/build-cache/c80d38a12e3551ca3d5aff6b23a222a5caa8111a/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] /home/bartek/.android/build-cache/694e061afa1cf2c7f3e4d7d3abc36e8fc1a6598f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/bartek/Desktop/Parkotron_app/Application/src/main/AndroidManifest.xml

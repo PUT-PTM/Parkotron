@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/bartek/Desktop/Parkotron/Application/build/intermediates/res/merged/debug/drawable-hdpi/car.png",
+        "source": "/home/bartek/Desktop/Parkotron/Application/src/main/res/drawable-hdpi/car.png"
+    },
+    {
+        "merged": "/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/bartek/Desktop/android-BluetoothChat-master/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_name.png",
+        "source": "/home/bartek/Desktop/android-BluetoothChat-master/Application/src/main/res/drawable-hdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/home/bartek/Desktop/Parkotron_app/Application/build/intermediates/res/merged/debug/drawable-hdpi/car.png",
+        "source": "/home/bartek/Desktop/Parkotron_app/Application/src/main/res/drawable-hdpi/car.png"
+    },
+    {
+        "merged": "/home/bartek/Desktop/Parkotron_app/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_device_access_bluetooth_searching.png",
+        "source": "/home/bartek/Desktop/Parkotron_app/Application/src/main/res/drawable-hdpi/ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "/home/bartek/Desktop/Parkotron/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/bartek/Desktop/Parkotron/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bartek/Desktop/Parkotron/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_device_access_bluetooth_searching.png",
+        "source": "/home/bartek/Desktop/Parkotron/Application/src/main/res/drawable-hdpi/ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "/home/bartek/Desktop/Parkotron_app/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/home/bartek/Desktop/Parkotron_app/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_device_access_bluetooth_searching.png",
+        "source": "/home/bartek/Desktop/android-BluetoothChat-master/Application/src/main/res/drawable-hdpi/ic_action_device_access_bluetooth_searching.png"
+    },
+    {
+        "merged": "/home/bartek/Desktop/Parkotron_app/Application/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/bartek/Desktop/Parkotron_app/Application/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bartek/Desktop/Parkotron/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/home/bartek/Desktop/Parkotron/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/home/bartek/Desktop/android-BluetoothChat-master/Application/src/main/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/home/bartek/Desktop/android-BluetoothChat-master/Application/build/intermediates/res/merged/debug/drawable-hdpi/car.png",
+        "source": "/home/bartek/Desktop/android-BluetoothChat-master/Application/src/main/res/drawable-hdpi/car.png"
+    }
+]
