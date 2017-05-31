@@ -1,7 +1,9 @@
-OVERVIEW - The project is a simple version of the parking sensor used in cars nowadays. The STM32 Discovery board measures the distance from 
+Ôªø## Overview
+The project is a simple version of the parking sensor used in cars nowadays. The STM32 Discovery board measures the distance from 
 4 "HC SR-04" sonars, computes it and sends to a mobile app (via Bluetooth), which displays the data in a clear and accessible way.
 
-DESCRIPTION - The board used for computing is STM32f407vg. The external power supply for the board is the USB bus, however sonars use
+## DESCRIPTION
+The board used for computing is STM32f407vg. The external power supply for the board is the USB bus, however sonars use
 the voltage passed through the USART module, because it tends to give a better output, than the 5V pin on the board.
 "Parkotron" uses 4 sonars, located on the "bumper", made out of cardboard, every one next to each other, so that they all together 
 cover the whole "bumber". A sonar has 4 pins: Vcc, GND, Trig, and Echo. First, it recieves a 10us long, high state on the Trig pin.
@@ -25,17 +27,21 @@ visualization process, otherwise application will display "error" in the fields 
 Vizualization process changes the background color of the squares placed below the image of the car. Depending on the values received from sonars, fields will become green if the distance is greater than the set value, or red if the distance is smaller than the set value.
 
 
-TOOLS - STM32 programme wrote in C (CooCox CoIDE Version: 1.7.8). The mobile app was made in Android Studio Version: 2.3.2.
+## TOOLS 
+STM32 programme wrote in C (CooCox CoIDE Version: 1.7.8). The mobile app was made in Android Studio Version: 2.3.2.
 
-HOW TO RUN - Download the Android app from the repository. Install it on Android 5.0 or higher.
+HOW TO RUN 
+Download the Android app from the repository. Install it on Android 5.0 or higher.
 Plug the USART module to the USB drive. Plug the USB cable to another USB drive and connect it to the board. Pair your android device with
 the HC SR-04 module. Pass 1234 as the PIN number. Open your app, connect to device, pick the Bluetooth module. (The red diode should now blink twice every few seconds, that means it's working correctly). IMPORTANT - if anything showed up in the app after connecting, please disconnect, run the app again and connect with the Bluetooth module one more time. There musn't be any "trash" in the bufor. If everything is done correctly, click the blue user button on the board, to start the transmission. If nothing is being sent, then one should try reseting the device or checking the cabling.
 
-HOW TO COMPILE - Compile using the CoIDE
+## HOW TO COMPILE 
+Compile using the CoIDE
 
-FUTURE IMPROVEMENTS - Sometimes sonars have troubles initiating, a better cabling and a more reliable power supply is needed. The counter in the app (the one that synchronices receiving of the data) sometimes loses the synchronization and the whole transmission has to be restarted. There is sometimes some trash in the receiving bufor, even if nothing has been sent. 
+## FUTURE IMPROVEMENTS
+Sometimes sonars have troubles initiating, a better cabling and a more reliable power supply is needed. The counter in the app (the one that synchronices receiving of the data) sometimes loses the synchronization and the whole transmission has to be restarted. There is sometimes some trash in the receiving bufor, even if nothing has been sent. 
 
-ATTRIBUTIONS - 
+## ATTRIBUTIONS 
 Parkotron_app - Application was created based on the sample given by the official Android Developers site. 
 https://developer.android.com/samples/BluetoothChat/index.html
 Bluetooth is being served by a modified code originally posted 
@@ -44,8 +50,10 @@ http://solderer.tv/communication-between-the-stm32-and-android-via-bluetooth/
 Sonars are being served by a modified code originally posted by: 
 http://stm32f4-discovery.net/2014/08/library-30-measure-distance-hc-sr04-stm32f4xx/
 
-LICENSE - MIT
+## LICENSE
+MIT
 
-CREDITS - JAKUB KACZMAREK, BARTOSZ KAR£OWSKI, KRZYSZTOF KLAPA, students of Computer Science, Faculty of Electical Engineering, Poznan University of Technology.
+## CREDITS
+JAKUB KACZMAREK, BARTOSZ KAR≈ÅOWSKI, KRZYSZTOF KLAPA, students of Computer Science, Faculty of Electical Engineering, Poznan University of Technology.
 The project was conducted during the Microprocessor Lab course held by the Institute of Control and Information Engineering, Poznan University of Technology.
-Supervisor: Marek Kraft/Micha≥ Fularz/Tomasz MaÒkowski/Adam Bondyra
+Supervisor: Marek Kraft/Micha≈Ç Fularz/Tomasz Ma≈Ñkowski/Adam Bondyra
